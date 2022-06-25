@@ -16,6 +16,6 @@ Esta aplicación crea un dashboard que visualiza:
 
 ![CMAMap](https://user-images.githubusercontent.com/88350138/175751954-a645e0b9-b147-49d8-aea3-b1accf4363e3.png)
 
-Para utilizarla, modificar los datos del archivo app.py con el usuario y contraseña del usuario.
+Para utilizarla, modificar los datos del archivo app.py con el usuario y contraseña correspondientes.
 
 [^1]: Petersohn, Ulrich/ Gottwick, Vanessa/ Penel, Charlotte/Kellgren-Parker, Leila (2022): The Commercial Military Actor Database, Journal of Conflict Resolution, online first (https://doi.org/10.1177/00220027211072528)
