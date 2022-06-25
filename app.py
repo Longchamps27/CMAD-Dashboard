@@ -11,8 +11,8 @@ import pandas as pd
 from dash.dependencies import Input, Output
 
 #Data de la conección SQL
-user = 'analyst'
-password = 'analysis'
+user = 'Usuario'
+password = 'Password'
 host = 'localhost'
 port = '3306'
 database = 'CMA'
