@@ -18,7 +18,7 @@ port = '3306'
 database = 'CMA'
 
 #Query que para leer la información de la base de datos
-query = "LOAD DATA LOCAL INFILE '/home/emiliano/SQL/dataverse_files/CMA.csv' INTO TABLE CMA_Data FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '' ESCAPED BY '' LINES TERMINATED BY '\\n';"
+query = "LOAD DATA LOCAL INFILE '/path/to/file/CMA.csv' INTO TABLE CMA_Data FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '' ESCAPED BY '' LINES TERMINATED BY '\\n';"
 
 #Conectarse a la base de datos y devolver el objeto "engine" de SQLAlchemy 
 def get_connection():
